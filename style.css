@@ -46,8 +46,9 @@ body{
     align-items: center;
     justify-content: space-around;
     cursor: pointer;
+    outline: none;
     border-radius: 50%;
-    box-shadow: 4px 4px #888888;
+    box-shadow: 4px 4px #888;
 }
 .cell:hover {
     background-color: #f2f2f2;
