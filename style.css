@@ -10,10 +10,9 @@ body{
 .main-container{
     width: 30vw;
     height: 85vh;
-    /* border: 1px solid black; */
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
 }
 
